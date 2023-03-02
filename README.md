@@ -1,6 +1,11 @@
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shivam Kaushik</h1>
 <h3 align="center">A passionate Full (Mern) Stack Developer From India</h3>
-<img align="right" alt="coding" width="200" src="https://miro.medium.com/v2/resize:fit:720/1*8ec0-crehv5zepqkBK1Wdw.gif"
+<img align="right" alt="coding" width="150" src="https://miro.medium.com/v2/resize:fit:720/1*8ec0-crehv5zepqkBK1Wdw.gif"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkaushik316" alt="shivamkaushik316" /></a> </p>
 
 - 🌱 I’m currently exploring **Open Contributions**
